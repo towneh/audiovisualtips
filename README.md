@@ -1,5 +1,5 @@
-# streamingtips
-Best practices guide for all things about getting video and audio in your event production and virtual spaces.
+# Streaming Tips
+Best practices guide for all things getting video and audio in your live event production and virtual spaces.
 
 # Table of contents
 - [OBS Settings](obs-interface.md) - Setting up OBS for better workflows.
