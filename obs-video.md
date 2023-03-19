@@ -25,7 +25,7 @@ This means that not all of the canvas that is broadcast will be visible and this
 *Example of entire canvas space being used*
 ![image](https://user-images.githubusercontent.com/25694892/226192556-0731e31c-2fd9-4667-825c-563e133dc841.png)
 
-To get around this, at Orion Music Festival events, we provide every DJ and LD/VJ a mask of the UV space to apply at the highest level of the OBS source list, in order to replace these pixels with an unchanging black space. This results is more bits per pixel being made available to the visible part of the screen space.
+To get around this, at Orion Music Festival events, we provided every DJ and LD/VJ a mask of the UV space to apply at the highest level of the OBS source list, in order to replace these pixels with an unchanging black space. This results is more bits per pixel being made available to the visible part of the screen space.
 
 *Example of UV masked applied*
 ![image](https://user-images.githubusercontent.com/25694892/226192640-98f8f54c-08e4-4af4-b5e3-fd80c1f4f54e.png)
