@@ -1,15 +1,3 @@
-# OBS Streaming Best Practices for Virtual Events
-
-This document was created following years of trial and error, from running virtual events, and feedback provided from multiple DJs that stream regularly to VR platforms.
-
-## Required Streaming Software
-
-First thing you need is an up to date release version of OBS Studio. For the purpose of production stability I would advise against beta releases where possible.
-
-* [OBS Studio](https://obsproject.com/)
-* [Virtual Cable & VoiceMeeter?](https://vb-audio.com/index.htm) *I didn't forget this, not required for streaming since [28.0 release](https://github.com/obsproject/obs-studio/releases/tag/28.0.0#:~:text=Added%20application%20audio%20capture) UNLESS using Multi-channel 5.1*
-
-
 ## OBS Settings
 
 Below are the recommended settings that differ from the default options in OBS following a fresh installation.
