@@ -81,3 +81,18 @@ Include screenshot of AMD settings
 ### Advanced
 * Colour Space: Rec. 709
 * Colour Range: Limited (usually, otherwise Full if you need to match the output from a capture device)
+
+## UI 
+
+### Custom Docks
+
+* [Custom Browser Docks for Twitch](https://inthirdperson.com/2021/03/05/add-the-twitch-chat-and-event-list-in-obs-the-easy-way/) if not using the "connect account" method
+* Separate dock open to show stats, to break down stream health and dropped packets, both network and renderer.
+* Custom Browser Dock for a clock to track time when glancing at your stream health
+
+![image](https://user-images.githubusercontent.com/25694892/226195726-9d98b706-3f20-4be4-a119-cb2fbc54430f.png)
+
+
+## Sources
+
+Audio Application Capture (Beta) may be required here to isolate specific programs. However, if you are using a dedicated USB interface, then you will want to use the audio input device directly.
