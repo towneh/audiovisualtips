@@ -40,11 +40,12 @@ Tick "Ignore streaming service setting recommendations"
 * Under Output Mode, select Advanced
 * Under the Streaming tab, make sure Audio Track 1 is selected and the appropriate Encoder for your PC system is selected.
 
-For low-latency streaming we will prefer hardware encoding. As of this document there are three viable options to pick:
+For low-latency streaming we will prefer hardware encoding. As of this document these are the viable options to pick:
 
 * NVIDIA NVENC (H.264, HEVC)
-* QuickSync (H.264)
-* AMD HW (H.264)
+* QuickSync H.264
+* AMD HW H.264
+* Apple VT H264 Hardware Encoder
 
 #### NVIDIA
 ![image](https://user-images.githubusercontent.com/25694892/226189752-6d45fc6e-3985-4c24-956b-b52eb95af7af.png)
@@ -55,6 +56,8 @@ Include screenshot of QuickSync settings
 #### AMD
 Include screenshot of AMD settings
 
+#### Apple
+Include screenshot of Apple settings.
 ### Audio
 * 48 KHz sample rate
 * Channels Stereo or 5.1 if using multi-channel 
