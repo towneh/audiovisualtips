@@ -27,7 +27,7 @@ Configure the appropriate server location, specifying the protocol (most likely 
 
 ![image](https://user-images.githubusercontent.com/25694892/226189293-dc628c8b-e8f8-469f-8c5e-9edd3b89b7dc.png)
 
-If Twitch, first use [this link](https://stream.twitch.tv/ingests/) to find your optimal ingest server. Use Stream Key to connect your account. *Don't worry anout integrations, we can use docks later on*
+If Twitch, first use [this link](https://stream.twitch.tv/ingests/) to find your optimal ingest server. Use Stream Key to connect your account. *Don't worry about integrations, we can use docks later on*
 
 select Twitch as the service name
 
@@ -69,10 +69,10 @@ Include screenshot of AMD settings
 * Common FPS Value: 30
 
 ### Hotkeys
-*Nothing specific needded here for best practices*
+*Nothing specific needed here for best practices*
 
 ### Accessbility
-*Nothing specific needded here for best practices*
+*Nothing specific needed here for best practices*
 
 ### Advanced
 * Colour Space: Rec. 709
