@@ -57,7 +57,8 @@ Include screenshot of QuickSync settings
 Include screenshot of AMD settings
 
 #### Apple
-Include screenshot of Apple settings.
+![image](https://user-images.githubusercontent.com/25694892/226205661-1cc0d789-0015-427d-84c8-7455924563cb.png)
+
 ### Audio
 * 48 KHz sample rate
 * Channels Stereo or 5.1 if using multi-channel 
