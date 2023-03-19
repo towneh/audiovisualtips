@@ -7,7 +7,8 @@
   ![image](https://user-images.githubusercontent.com/25694892/226199207-950a9855-8268-4f90-998f-c36fb616a99b.png)
 
 * Composite mode, which allows you to target multiple sources to individual audio inputs to specific bus channels, useful for isolating instruments in-game or for providing environmental audio in addition to the music.
-   ![image](https://user-images.githubusercontent.com/25694892/226199351-625e39ea-3205-4956-b18a-b0041ad5a32b.png)
+ 
+  ![image](https://user-images.githubusercontent.com/25694892/226199351-625e39ea-3205-4956-b18a-b0041ad5a32b.png)
 
 * If using multi-channel Audio you must also consider how audio sensitive shader systems, such as [AudioLink](https://github.com/llealloo/vrc-udon-audio-link), will respond to an audiosource configured to specific channels, e.g. try targetting the full mix to a specific channel, which is played back in a dedicated audio source for AudioLink.
 
