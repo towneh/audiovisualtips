@@ -3,7 +3,7 @@
 First thing you need is an up to date release version of OBS Studio. For the purpose of production stability I would advise against beta releases where possible.
 
 * [OBS Studio](https://obsproject.com/)
-* [Virtual Cable & VoiceMeeter?](https://vb-audio.com/index.htm) *I didn't forget this, not required for streaming since [28.0 release](https://github.com/obsproject/obs-studio/releases/tag/28.0.0#:~:text=Added%20application%20audio%20capture) UNLESS using Multi-channel 5.1*
+* [Virtual Cable & VoiceMeeter?](https://vb-audio.com/index.htm) *I didn't forget this, not required for streaming since [28.0 release](https://github.com/obsproject/obs-studio/releases/tag/28.0.0#:~:text=Added%20application%20audio%20capture) UNLESS using Multi-channel 5.1 or other edge cases*
 * Access to a video delivery platform, such as Twitch.tv, VRCDN or your own hosted service.
 
 ## Settings
