@@ -1,15 +1,7 @@
-# Streaming Tips
-Best practices guide for all things getting video and audio in your live event production and virtual spaces.
+# Audiovisual Tips
+Best practices guide for all things video and audio and how to get them in your live event production and virtual spaces.
 
-This document was created following years of trial and error, from running virtual events, and feedback provided from multiple DJs that stream regularly to VR platforms.
-
-## Required Streaming Software
-
-First thing you need is an up to date release version of OBS Studio. For the purpose of production stability I would advise against beta releases where possible.
-
-* [OBS Studio](https://obsproject.com/)
-* [Virtual Cable & VoiceMeeter?](https://vb-audio.com/index.htm) *I didn't forget this, not required for streaming since [28.0 release](https://github.com/obsproject/obs-studio/releases/tag/28.0.0#:~:text=Added%20application%20audio%20capture) UNLESS using Multi-channel 5.1*
-* Access to a video delivery platform, such as Twitch.tv, VRCDN or your own hosted service.
+This document was created following years of trial and error, from running virtual events, creating test worlds, and feedback provided from multiple DJs that stream regularly to VR platforms.
 
 # Table of contents
 - [OBS Settings](obs-interface.md) - Setting up OBS for better workflows.
