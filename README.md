@@ -10,4 +10,4 @@ This document was created following years of trial and error, from running virtu
 - [DJ Audio Mixers](audio-mixer-hardware.md) - Get the best possible SNR and gain through to your audio interface.
 - [Multi-PC Streaming](multipc-streaming.md) - Splitting the workload between dedicated computers.
 - [AudioLink](audiolink-tips.md) - Tips for how to get AudioLink to respond best to your audio.
-- [SteamAudio](steamaudio.md) - Configuration tips for SteamAudio components in your virtual world.
+- [SteamAudio](steamaudio-tips.md) - Configuration tips for SteamAudio components in your virtual world.
