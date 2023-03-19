@@ -30,4 +30,4 @@ To get around this, at Orion Music Festival events, we provided every DJ and LD/
 *Example of UV masked applied*
 ![image](https://user-images.githubusercontent.com/25694892/226192640-98f8f54c-08e4-4af4-b5e3-fd80c1f4f54e.png)
 
-If the mask is applied from the origin, then this optimisation is maintained all the way through to the video distribution to the world, otherwise the next hop in the production chain can mask it and potentially remove further degradation.
+If the mask is applied from the origin, then this optimisation is maintained all the way through to the video distribution in to the world, therefor preventing pixelation of the video.
