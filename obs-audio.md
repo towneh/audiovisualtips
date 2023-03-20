@@ -1,6 +1,6 @@
 ## CoreAudio AAC Encoder
 
-The Apple CoreAudio encoder is one of best and recommended AAC encoders [available](https://wiki.hydrogenaud.io/index.php?title=AAC_encoders), it has built-in support with OBS, which will automatically make use of it should it be detected on the system.
+The Apple CoreAudio encoder is one of best and recommended AAC encoders [available](https://wiki.hydrogenaud.io/index.php?title=AAC_encoders), it has built-in support with OBS, which will automatically make use of it should it be detected on your system.
 
    *Note: If you are using Apple hardware to stream with OBS, you will already be using the CoreAudio encoder by default.*
 
