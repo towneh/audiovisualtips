@@ -6,7 +6,7 @@ The Apple CoreAudio encoder is one of best and recommended AAC encoders [availab
 
 To get access to this, you simply need to run the AppleApplicationSupport64.msi installer which can be extracted from the iTunes installer with 7zip, providing the version of the installer is [earlier than 12.10.8.5](https://ideas.obsproject.com/posts/1890/windows-portable-call-to-coreaudiotoolbox-dll)
 
-   *Note: You can download 12.9 from [ipsw.me](https://ipsw.me/iTunes) which is confirmed to have the required MSI packages. Other iTunes Archive sites may work as well, providing they are prior to version 12.10.8.5.*
+   *Note: You can download 12.9 from [ipsw.me](https://ipsw.me/iTunes) which is confirmed to have the required MSI packages. Other iTunes archive sites may work as well, providing they are prior to version 12.10.8.5.*
 
 Once AppleApplicationSupport64.msi is installed, start up or restart OBS Studio, and it should now be using this new encoder.
 
