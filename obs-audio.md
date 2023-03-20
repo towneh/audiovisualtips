@@ -6,9 +6,7 @@ If you are using an Apple hardware to stream with OBS, you will already be using
 
 To get access to this, you simply need to run the AppleApplicationSupport64.msi installer which can be extracted from the iTunes installer with 7zip, providing the version of the installer is [earlier than 12.10.8.5](https://ideas.obsproject.com/posts/1890/windows-portable-call-to-coreaudiotoolbox-dll)
 
-```
-*Note: You can download 10.12.8.0 from archive sites such as [ipsw.me](https://ipsw.me/iTunes) which is confirmed to have the required MSI packages.*
-```
+  Note: You can download 10.12.8.0 from archive sites such as [ipsw.me](https://ipsw.me/iTunes) which is confirmed to have the required MSI packages.*
 
 Once AppleApplicationSupport64.msi is installed, start up or restart OBS Studio, and it should now be using this new encoder.
 
