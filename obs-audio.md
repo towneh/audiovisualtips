@@ -4,7 +4,7 @@ The Apple CoreAudio encoder is one of best and recommended AAC encoders [availab
 
    *Note: If you are using Apple hardware to stream with OBS, you will already be using the CoreAudio encoder by default.*
 
-To get access to this, you simply need to run the AppleApplicationSupport64.msi installer which can be extracted from the iTunes installer with 7zip, providing the version of the installer is [earlier than 12.10.8.5](https://ideas.obsproject.com/posts/1890/windows-portable-call-to-coreaudiotoolbox-dll). You will also need to ensure you are using the 64bit version of OBS as well, which are all versions since 28.0, otherwise you will need to use AppleApplicationSupport.msi to compatibility with x86 releases of 27.2.4 and older.
+To get access to this, you simply need to run the AppleApplicationSupport64.msi installer which can be extracted from the iTunes installer with 7zip, providing the version of the installer is [earlier than 12.10.8.5](https://ideas.obsproject.com/posts/1890/windows-portable-call-to-coreaudiotoolbox-dll). You will also need to ensure you are using the 64bit version of OBS as well, which are all versions since 28.0, otherwise you will need to use AppleApplicationSupport.msi for compatibility with x86 releases of 27.2.4 and older.
 
    *Note: You can download 12.9 from [ipsw.me](https://ipsw.me/iTunes) which is confirmed to have the required MSI packages. Other iTunes archive sites may work as well, providing they are prior to version 12.10.8.5.*
 
