@@ -1,4 +1,5 @@
 Please make sure that AppleApplicationSupport64.msi matches the below SHA256 hash. 
+
 You can check this in PowerShell with the Get-FileHash command.
 
 ```Windows PowerShell
