@@ -5,7 +5,8 @@ This document was created following years of trial and error, from running virtu
 
 # Table of contents
 - [OBS Settings](obs-interface.md) - Setting up OBS for better workflows.
-- [OBS Audio](obs-audio.md) - Working with Audio encoders and multi-channel.
+- [OBS Audio](obs-audio-encoder.md) - Installing and using the CoreAudio audio encoder for OBS.
+- [OBS Multichannel](obs-multichannel) - Using Multichannel Audio in OBS.
 - [OBS Video](obs-video.md) - Optimising for H.264 video encoding.
 - [DJ Audio Mixers](audio-mixer-hardware.md) - Get the best possible SNR and gain through to your audio interface.
 - [Multi-PC Streaming](multipc-streaming.md) - Splitting the workload between dedicated computers.
