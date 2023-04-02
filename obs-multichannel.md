@@ -12,7 +12,7 @@
 
 * If using multi-channel Audio you must also consider how audio sensitive shader systems, such as [AudioLink](https://github.com/llealloo/vrc-udon-audio-link), will respond to an audiosource configured to specific channels, e.g. try targetting the full mix to a specific channel, which is played back in a dedicated audio source for AudioLink.
 
-*AVPro Channel Mappings for reference*
+### AVPro Channel Mappings for reference
 ```
 FrontLeft => Mono Left
 FrontRight => Mono Right
@@ -21,3 +21,10 @@ LowFrequency => 4
 BackLeft => 5
 BackRight => 6
 ```
+
+### Multi-channel Media Sources
+https://thedigitaltheater.com/dolby-trailers/
+
+https://kodi.wiki/view/Samples
+
+https://www2.iis.fraunhofer.de/AAC/
