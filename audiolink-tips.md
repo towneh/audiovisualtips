@@ -4,6 +4,7 @@ By Default Merlin's [USharp Video Player](https://github.com/MerlinVR/USharpVide
 - StreamAudioSourceL
 - StreamAudioSourceR
 - VideoAudioSource
+
 As AudioLink can only reference one audio source, we need to configure USharp video player to only use a single audio source in turn.
 
 To do this, you only simply need to disable 2 out of the above 3 audio sources listed within the prefab's hierarchy.
