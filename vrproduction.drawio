@@ -145,7 +145,7 @@
             <mxPoint x="550" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-99" value="&lt;div&gt;Stream Web&lt;/div&gt;&lt;div&gt;Control Panel&lt;br&gt;- Instance hosted&lt;br&gt;in US-East-1&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_side_code;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-99" value="&lt;div&gt;Stream Web&lt;/div&gt;&lt;div&gt;Control Panel&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_side_code;" vertex="1" parent="1">
           <mxGeometry x="711" y="80" width="49" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-100" value="&lt;div&gt;SRT Ingest&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Separate instances hosted&lt;/div&gt;&lt;div&gt;&amp;nbsp;in Region/AZ closest to DJ/LD&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
@@ -163,16 +163,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-194" value="SRT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-147">
+          <mxGeometry x="-0.428" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-149" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="721" y="210" as="sourcePoint" />
+            <mxPoint x="721" y="180" as="sourcePoint" />
             <mxPoint x="661" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="721" y="286" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-152" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-149">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-152" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-149">
           <mxGeometry x="-0.3502" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -186,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-151" value="&amp;nbsp;API&amp;nbsp; " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-150">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-151" value="&amp;nbsp;API&amp;nbsp; " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-150">
           <mxGeometry x="-0.0022" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -341,7 +346,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-192" value="&lt;b&gt;&amp;nbsp;RTSPT&amp;nbsp; &lt;br&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-191">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-192" value="&lt;b&gt;&amp;nbsp;RTSP&amp;nbsp; &lt;br&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-191">
           <mxGeometry x="-0.1793" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
