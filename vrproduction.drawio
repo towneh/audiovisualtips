@@ -14,9 +14,9 @@
           <mxGeometry x="940" y="250" width="400" height="700" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-261" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#F5F5F5;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="330" width="355" height="680" as="geometry" />
+          <mxGeometry x="1550" y="330" width="355" height="706" as="geometry" />
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-281" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#FCFCFC;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-281" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#FCFCFC;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1741.5" y="400" width="130" height="453" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-280" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#FCFCFC;" vertex="1" parent="1">
@@ -617,10 +617,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-271" value="&lt;div&gt;Twitch Ingest&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-375" value="&lt;b&gt;ACTIVE&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-267">
+          <mxGeometry x="-0.1045" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-271" value="&lt;div&gt;DNS Geolocated&amp;nbsp;&lt;/div&gt;&lt;div&gt;Twitch Ingest&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1659" y="920.5" width="27" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-274" value="YouTube Ingest" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-274" value="&lt;div&gt;DNS Gelocated&lt;/div&gt;&lt;div&gt;YouTube Ingest&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1769" y="920.5" width="27" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-276" value="Dedicated VR Client" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" vertex="1" parent="1">
@@ -714,6 +719,11 @@
             <Array as="points">
               <mxPoint x="1890" y="320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-376" value="PASSIVE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-293">
+          <mxGeometry x="-0.0763" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-295" value="&lt;div&gt;Ideal Virtual Production Stream Workflow&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontStyle=1" vertex="1" parent="1">
@@ -873,6 +883,9 @@
           <mxGeometry x="-0.112" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-374" value="Hot Standby Redundancy Model" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1565" y="349" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
