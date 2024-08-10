@@ -803,7 +803,7 @@
         <mxCell id="5zzfdvalp0ISnl_wuwMz-351" value="Laser Show Designer" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="993" width="53" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-352" value="VRSL / Stream / &lt;br&gt;Local VOD PC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-352" value="VRSL / Stream / &lt;br&gt;&lt;div&gt;Local VOD PC&lt;/div&gt;&lt;div&gt;(OBS Filter Mask)&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="937" width="53" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-353" value="MIDI Controller" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calculator;" vertex="1" parent="1">
