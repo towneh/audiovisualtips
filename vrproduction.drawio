@@ -517,7 +517,7 @@
         <mxCell id="5zzfdvalp0ISnl_wuwMz-240" value="&lt;div&gt;VJ Stream Switcher&lt;/div&gt;&lt;div&gt;for LD or route to Final&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1000" y="640" width="27" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-241" value="&lt;div&gt;Final Stream&lt;/div&gt;&lt;div&gt;&amp;nbsp;Switcher&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-241" value="&lt;div&gt;Final Stream&lt;/div&gt;&lt;div&gt;&amp;nbsp;Aggregator for&lt;/div&gt;&lt;div&gt;VRCDN hand-off&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1260" y="706" width="27" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-242" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
