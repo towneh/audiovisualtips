@@ -716,8 +716,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-295" value="&lt;div&gt;Virtual Production Workflow&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="690" y="1006" width="540" height="30" as="geometry" />
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-295" value="&lt;div&gt;Ideal Virtual Production Stream Workflow&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="549" y="1019" width="822" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-299" value="US-EAST-1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1197" y="250" width="90" height="30" as="geometry" />
