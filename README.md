@@ -12,3 +12,4 @@ This document was created following years of trial and error, from running virtu
 - [Multi-PC Streaming](multipc-streaming.md) - Splitting the workload between dedicated computers.
 - [AudioLink](audiolink-tips.md) - Tips for how to get AudioLink to respond best to your audio.
 - [SteamAudio](steamaudio-tips.md) - Configuration tips for SteamAudio components in your virtual world.
+- [vrproduction.drawio.png](vrproduction.drawio.png) - Ideal Virtual Production Stream Workflow Diagram
