@@ -157,7 +157,7 @@
         <mxCell id="5zzfdvalp0ISnl_wuwMz-100" value="&lt;div&gt;SRT Ingest&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Instances hosted&lt;/div&gt;&lt;div&gt;&amp;nbsp;in Region/AZ closest to DJ&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="827" y="420" width="27" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-146" value="&lt;div&gt;VJ Stream Switcher&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-146" value="&lt;div&gt;DJ Stream Switcher&lt;/div&gt;&lt;div&gt;&amp;nbsp;for VJ or route to Final&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1000" y="508" width="27" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-147" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
@@ -514,7 +514,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-240" value="&lt;div&gt;LD Stream Switcher&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-240" value="&lt;div&gt;VJ Stream Switcher&lt;/div&gt;&lt;div&gt;for LD or route to Final&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1000" y="640" width="27" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-241" value="&lt;div&gt;Final Stream&lt;/div&gt;&lt;div&gt;&amp;nbsp;Switcher&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
@@ -522,8 +522,8 @@
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-242" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="784" y="891" as="sourcePoint" />
-            <mxPoint x="1250" y="749" as="targetPoint" />
+            <mxPoint x="784" y="904" as="sourcePoint" />
+            <mxPoint x="1249" y="745" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1186" y="845" />
             </Array>
@@ -551,7 +551,7 @@
         <mxCell id="5zzfdvalp0ISnl_wuwMz-246" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1184" y="372" as="sourcePoint" />
-            <mxPoint x="1251" y="720" as="targetPoint" />
+            <mxPoint x="1249" y="728" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1184" y="548" />
             </Array>
@@ -775,7 +775,7 @@
         <mxCell id="5zzfdvalp0ISnl_wuwMz-340" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="374" y="981" as="sourcePoint" />
-            <mxPoint x="734" y="891" as="targetPoint" />
+            <mxPoint x="736" y="904" as="targetPoint" />
             <Array as="points">
               <mxPoint x="512" y="938" />
             </Array>
@@ -798,7 +798,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-328" value="&lt;div&gt;LT Stream Switcher&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
+        <mxCell id="5zzfdvalp0ISnl_wuwMz-328" value="&lt;div&gt;LD Stream Switcher&lt;/div&gt;&lt;div&gt;for LT or route to Final&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;" vertex="1" parent="1">
           <mxGeometry x="1000" y="808" width="27" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-348" value="LT" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
@@ -862,25 +862,6 @@
         </mxCell>
         <mxCell id="5zzfdvalp0ISnl_wuwMz-362" value="USB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-360">
           <mxGeometry x="0.2048" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-368" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#808080;strokeWidth=2" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1016" y="717" as="sourcePoint" />
-            <mxPoint x="1249" y="734" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1016" y="734" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-371" value="SRT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-368">
-          <mxGeometry x="-0.632" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5zzfdvalp0ISnl_wuwMz-373" value="(No LT)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5zzfdvalp0ISnl_wuwMz-368">
-          <mxGeometry x="-0.112" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
