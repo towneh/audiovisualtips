@@ -31,3 +31,5 @@ To get around this, at Orion Music Festival events, we provided every DJ and LD/
 ![image](https://user-images.githubusercontent.com/25694892/226192640-98f8f54c-08e4-4af4-b5e3-fd80c1f4f54e.png)
 
 If the mask is applied from the origin, then this optimisation is maintained all the way through to the video distribution in to the world, therefor preventing pixelation of the video.
+
+Remember, even if you are the DJ sending the original feed, or the VJ picking up the next hop, if your final output space on the canvas only uses a specific area, then make sure to not send any more than is needed.
